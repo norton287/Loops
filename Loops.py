@@ -1,5 +1,5 @@
-x = int(input('Enter the smaller number to calculate: '))
-y = int(input('Enter the larger number to calculate: '))
+x = int(input('Enter the smaller number: '))
+y = int(input('Enter the larger number: '))
 
 print('\n')
 
